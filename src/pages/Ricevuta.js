@@ -84,7 +84,7 @@ function Ricevuta ()  {
     {flag == 1 &&
     <>
       <div ref={componentRef} className='stampRice' style={{ background: "white", textAlign:"center", color:"black", overflowY: "auto", overflowX: "hidden", maxHeight:"95%", fontFamily:"Roboto"}}> 
-      <h2 style={{paddingTop:"15px"}}> <b>Chiesa Cristiana Evangelica ADI Caivano</b></h2>
+      <h2 style={{paddingTop:"15px"}}> <b> Titolo </b></h2>
       <div className='row' style={{marginTop:"30px"}}>
         <div className='col-2'>  </div>
         <div className='col' style={{textAlign: "left"}}>
@@ -101,7 +101,7 @@ function Ricevuta ()  {
             </div>
             <div className='col' style={{marginLeft: ""}}>
             <h6 style={{textAlign:"center"}}> <b>Il Tesoriere</b>  </h6>
-            <h6 style={{textAlign:"center", paddingBottom: "20px"}}> Mario Castaldo  </h6>
+            <h6 style={{textAlign:"center", paddingBottom: "20px"}}> Nome </h6>
             </div>
         </div>
       </div>
@@ -113,7 +113,7 @@ function Ricevuta ()  {
     {flag == 0 && 
     <>
     <div ref={componentRef} style={{ background: "white", textAlign:"center", color:"black", overflowY: "auto", overflowX: "hidden", maxHeight:"95%", fontFamily:"Roboto" }}> 
-      <h2 style={{paddingTop:"15px"}}> <b>Chiesa Cristiana Evangelica ADI Caivano</b></h2>
+      <h2 style={{paddingTop:"15px"}}> <b> Titolo </b></h2>
       <div className='row' style={{marginTop:"30px"}}>
       <div className='col-2'>  </div>
         <div className='col' style={{textAlign: "left"}}>
@@ -131,7 +131,7 @@ function Ricevuta ()  {
             </div>
             <div className='col' style={{paddingLeft: "30px"}}>
             <h6 style={{textAlign:"center"}}> <b>Il Tesoriere</b> </h6>
-            <h6 style={{textAlign:"center", paddingBottom: "20px"}}> Mario Castaldo  </h6>
+            <h6 style={{textAlign:"center", paddingBottom: "20px"}}> Nome </h6>
             </div>
         </div>
       </div>
