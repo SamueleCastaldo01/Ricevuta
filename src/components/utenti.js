@@ -1,7 +1,7 @@
-var s1="9X9AEPeKUGM8x9Fvv106rvMYTK03"  //sono io
-var s2="FujHVcA8u2QmFmKu9anCdugTByx2"   //Papà
-var s5="gKV9G0Q3B7gvHX3ISXJO3HwTCmT2" //Davide Liguori
-var d1= "7JUgxspZncO0WD8H8Z7ANV0UuAA3"  //dipendente1
+var s1="9X9AEPeKUGM8x9Fvv106rvMYTK03" 
+var s2="FujHVcA8u2QmFmKu9anCdugTByx2"  
+var s5="gKV9G0Q3B7gvHX3ISXJO3HwTCmT2" 
+var d1= "7JUgxspZncO0WD8H8Z7ANV0UuAA3"  
 var g1= "wX8dxc9QOsYEIqYWjZpMvQfLPsu1"
 
 
